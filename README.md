@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-nicolas-martins/)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devnicolasmartins&show_icons=true&theme=dracula&count_private=true)
+![Nícolas GitHub stats](https://github-readme-stats.vercel.app/api?username=devnicolasmartins&show_icons=true&theme=dracula&count_private=true) ![Nícolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnicolasmartins&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -17,4 +17,4 @@
 </div><br/>
 
 Apaixonado por tecnologia, utilizando as ferramentas que essa área me proporciona para colocar a minha criatividade em prática.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
