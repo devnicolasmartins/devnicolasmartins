@@ -23,4 +23,6 @@ Apaixonado por tecnologia, utilizando as ferramentas que essa área me proporcio
 <a href="https://github.com/devnicolasmartins/Portfolio-Ratisbone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devnicolasmartins&repo=Portfolio-Ratisbone" />
 </a>
-
+<a href="https://github.com/devnicolasmartins/Tabela-JS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devnicolasmartins&repo=Tabela-JS" />
+</a>
