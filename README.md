@@ -19,10 +19,3 @@ Apaixonado por tecnologia, utilizando as ferramentas que essa área me proporcio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnicolasmartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<a href="https://github.com/devnicolasmartins/Portfolio-Ratisbone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devnicolasmartins&repo=Portfolio-Ratisbone" />
-</a>
-<a href="https://github.com/devnicolasmartins/Tabela-JS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devnicolasmartins&repo=Tabela-JS" />
-</a>
