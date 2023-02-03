@@ -17,3 +17,4 @@
 </div><br/>
 
 Apaixonado por tecnologia, utilizando as ferramentas que essa área me proporciona para colocar a minha criatividade em prática.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
