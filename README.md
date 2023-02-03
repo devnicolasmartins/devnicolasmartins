@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-nicolas-martins/)
 
-![Nícolas GitHub stats](https://github-readme-stats.vercel.app/api?username=devnicolasmartins&theme=dracula&count_private=true)
+![Nícolas GitHub stats](https://github-readme-stats.vercel.app/api?username=devnicolasmartins&theme=dracula&show_icons=true)
 
 ## Tecnologias que eu uso no meu dia
 
