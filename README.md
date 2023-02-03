@@ -1,9 +1,10 @@
 ## Olá! Eu sou o Nícolas Martins! 🖐️
 
+Apaixonado por tecnologia, utilizando as ferramentas que essa área me proporciona para colocar a minha criatividade em prática.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-nicolas-martins/)
 
-![Nícolas GitHub stats](https://github-readme-stats.vercel.app/api?username=devnicolasmartins&theme=dracula&show_icons=true)
+![Nícolas GitHub stats](https://github-readme-stats.vercel.app/api?username=devnicolasmartins&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -16,5 +17,12 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, utilizando as ferramentas que essa área me proporciona para colocar a minha criatividade em prática.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnicolasmartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://github.com/devnicolasmartins/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devnicolasmartins&repo=Portfolio-Ratisbone" />
+</a>
+<a href="https://github.com/devnicolasmartins/Portifolio-ratisbone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devnicolasmartins&repo=tabela-js" />
+</a>
